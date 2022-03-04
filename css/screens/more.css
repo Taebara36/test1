@@ -1,0 +1,52 @@
+.more-screen .icon-row{
+    margin-top: 35px;
+    
+}
+
+
+.more-suggestions{
+    margin-top: 50px;
+    border-top: 1px solid rgba(0, 0, 0, 0.3);
+    padding-top: 40px;
+}
+
+.more-suggestions_title{
+    margin-bottom: 30px;
+    font-weight: 600;
+}
+
+.more-suggestions_icons{
+    display: flex;
+  
+}
+
+.more-suggestions_icon{
+    margin-right: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.more-suggestions_icon-image{
+    background-color: var(--yellow);
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.more-suggestions_icon-image i {
+    font-size: 28px;
+    color: white;
+}
+
+.more-suggestions_icon .more-suggestions_icon-color{
+    background-color: teal;
+}
+
+.apple-color{
+    background-color: rgb(232, 76, 76);
+}
