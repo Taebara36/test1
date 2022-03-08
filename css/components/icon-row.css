@@ -7,6 +7,10 @@
     
 }
 
+#add{
+    text-align: center;
+}
+
 .icon-row_icon{
     display: flex;
     flex-direction: column;
